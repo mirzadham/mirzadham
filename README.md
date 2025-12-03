@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mirzadham
-- 👀 I’m interested to become a game developer
+- 👀 I’m interested to become a AI Engineer
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
